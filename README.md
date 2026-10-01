@@ -25,12 +25,6 @@ A simple and beginner-friendly **REST API** built with **Node.js and Express.js*
 | PUT | `/api/users/:id` | Update user |
 | DELETE | `/api/users/:id` | Delete user |
 
-### ⚡ Run Locally
-npm install
-npm start
-API runs at:
-http://localhost:3000
-
 ### 🧪 Testing
 Tested all CRUD operations using **Postman**.
 
