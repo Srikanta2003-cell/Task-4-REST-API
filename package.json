@@ -1,0 +1,20 @@
+{
+  "name": "task-4-rest-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+},
+
+  "keywords": [
+    "nodejs",
+    "express",
+    "rest-api"
+  ],
+  "author": " Srikanta kumar sahu",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
